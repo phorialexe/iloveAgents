@@ -165,4 +165,5 @@
 | 158 | Java DSA Interview Prep | Generates Java DSA problems, provides hints, reviews attempts, and simulates coding interviews. | Education |
 | 159 | Resume Bullet Point Rewriter | Paste a weak resume bullet point and get it rewritten to be metric-driven, impact-focused, and ATS-friendly. | Education |
 | 160 | Terraform Plan Diff Explainer | Paste raw `terraform plan` output and get a plain-English breakdown of every create, update, destroy, and replace action — with downtime and data-loss risks called out clearly before you apply. | DevOps |
+| 161 | Data Visualization Advisor | Recommends suitable data visualizations based on a dataset, its variables, and the analytical goal, with a brief explanation of why each is appropriate. | Data Science |
 > Want to add your own? It takes about 5 minutes. See [Contributing](#contributing) below.
